@@ -30,5 +30,5 @@ This repository contains a comprehensive analysis of Netflix content using data 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/netflix-data-analysis.git
+   git clone https://github.com/thesivah/netflix_analysis.git
    cd netflix-data-analysis
